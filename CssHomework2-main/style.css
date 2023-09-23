@@ -1,0 +1,67 @@
+.google {
+    width: 351px;
+    height: 113px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.leftbox {
+
+    float: left;
+    width: 36%;
+    height: 50px;
+    background-color: rgb(1, 251, 251);
+    padding-bottom: 40px;
+    font-size: small;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-top: 5px;
+    text-align: center;
+
+
+}
+
+.midbox {
+    float: left;
+    width: 26%;
+    height: 50px;
+    padding-bottom: 40px;
+    font-size: small;
+    margin-left: 5px;
+    margin-right: 1px;
+    margin-top: 5px;
+    text-align: center;
+    background-color: rgb(37, 189, 189);
+}
+
+.rightbox {
+    float: left;
+    width: 36%;
+    height: 50px;
+    background-color: rgb(51, 123, 123);
+    padding-bottom: 40px;
+    font-size: small;
+    margin-left: 5px;
+    margin-right: 1px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+
+
+
+.center {
+    text-align: center;
+    background-color:#EEEEEE;
+}
+
+.centermain {
+font-size: 20px;
+text-align: center;
+}
+
+.search {
+   
+    background-color :rgb(254, 255, 240) 
+
+}
